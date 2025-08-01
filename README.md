@@ -1,12 +1,12 @@
 # Matheus de Oliveira Desenvolvedor
 
-Olá! 👋 Sou Matheus , um desenvolvedor frontend em formação, apaixonado por tecnologia e pelo desenvolvimento de software. Atualmente moro no Brasil e estou sempre em busca de aprender mais e evoluir como profissional. Seja bem-vindo ao meu perfil no GitHub!
+Olá! 👋 Sou Matheus, um apaixonado pela tecnologia e pelo desenvolvimento de software. Atualmente moro no Brasil e estou sempre em busca de aprender mais e evoluir como profissional. Seja bem-vindo ao meu perfil no GitHub!
 
 ---
 
 ## 💡 Sobre mim
 
-Sou um entusiasta da programação com grande interesse em criar interfaces modernas, funcionais e acessíveis. Minha principal stack é focada em frontend, utilizando React, TypeScript e Material UI, mas também venho aprofundando meus conhecimentos em backend com Node.js, Express, Sequelize e PostgreSQL.
+Sou um entusiasta da programação com 1 ano de experiência na área. Minha jornada da programação começou a 2 anos com um simples "Hello World", desde então venho estudando e desenvolvendo interfaces web. Atualmente trabalho como freelancer solucionando problemas e desenvolvendo aplicações de clientes do mundo todo. Minha primeira oportunidade de atuação foi na Evelus Labs onde pude contribuir para o desemvolvimento de um sistema de adiministração de um ecommerce   
 
 Estou constantemente estudando boas práticas de desenvolvimento como SOLID, Clean Code e arquitetura MVC. Também tenho explorado o uso de bibliotecas de validação como Zod, testes automatizados com Jest e testes E2E com Playwright.
 
