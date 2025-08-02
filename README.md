@@ -1,25 +1,41 @@
-# Matheus de Oliveira Desenvolvedor
+<!-- Banner ou imagem no topo (opcional, mas recomendado) -->
+<!-- Você pode criar uma imagem personalizada e usar o link do GitHub ou do Imgur -->
+<!-- ![Banner](https://link-da-sua-imagem/banner.png) -->
 
-Olá! 👋 Sou Matheus, um apaixonado pela tecnologia e pelo desenvolvimento de software. Atualmente moro no Brasil e estou sempre em busca de aprender mais e evoluir como profissional. Seja bem-vindo ao meu perfil no GitHub!
+<h1 align="center">Matheus de Oliveira · Desenvolvedor Fullstack</h1>
+
+<p align="center">
+  👨‍💻 Apaixonado por tecnologia, focado em desenvolvimento de software e sempre em busca de evoluir!  
+</p>
 
 ---
 
 ## 💡 Sobre mim
 
-Sou um entusiasta da programação com 1 ano de experiência na área. Minha jornada da programação começou a 2 anos com um simples "Hello World", desde então venho estudando e desenvolvendo interfaces web. Atualmente trabalho como freelancer solucionando problemas e desenvolvendo aplicações de clientes do mundo todo. Minha primeira oportunidade de atuação foi na Evelus Labs onde pude contribuir para o desemvolvimento de um sistema de adiministração de um ecommerce   
+Sou um entusiasta da programação com **1 ano de experiência profissional**.  
+Minha jornada na programação começou há **2 anos**, com um simples "Hello World". Desde então, venho estudando e criando interfaces web com foco em boas práticas.
 
-Estou constantemente estudando boas práticas de desenvolvimento como SOLID, Clean Code e arquitetura MVC. Também tenho explorado o uso de bibliotecas de validação como Zod, testes automatizados com Jest e testes E2E com Playwright.
+Atualmente, trabalho como **freelancer**, solucionando problemas e desenvolvendo aplicações para clientes ao redor do mundo.
 
-Gosto de entender a fundo como as tecnologias funcionam, criando aplicações que sejam bem estruturadas, escaláveis e de fácil manutenção.
+### 🚀 Experiência profissional:
+
+- **Evelus Labs**: Minha primeira oportunidade profissional. Contribuí no desenvolvimento de um sistema administrativo de e-commerce utilizando **React**, **TypeScript**, **Mantine UI**, **Playwright**, entre outras tecnologias de front-end.
+- **MajovDev**: Atualmente atuo como desenvolvedor **fullstack** em uma fábrica de software. Trabalho tanto no **frontend** quanto no **backend**, aplicando **boas práticas**, **padrões de arquitetura** e **testes automatizados**.
+
+### 📌 Atualmente:
+
+- 💻 Focado em projetos **fullstack**
+- 📚 Estudando e aplicando **princípios SOLID**, **Clean Code** e **boas práticas**
+- 🌍 Em busca de evoluir técnica e profissionalmente
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 **Frontend:**
 - React
 - TypeScript
-- Material UI
+- Material UI | Mantine UI
 - Axios
 - Zod
 
@@ -30,28 +46,46 @@ Gosto de entender a fundo como as tecnologias funcionam, criando aplicações qu
 - PostgreSQL
 
 **Testes:**
-- Jest (unitários)
-- Playwright (end-to-end)
+- Jest (testes unitários)
+- Playwright (testes end-to-end)
+- Node Test
 
 **Outros:**
-- Git e GitHub
-- Docker (iniciante)
+- Git & GitHub
 - Arquitetura MVC
 - Princípios SOLID
 - Clean Code
 
 ---
 
-## 🚀 Em evolução constante
+## 📈 GitHub Stats
 
-Atualmente estou focado em projetos fullstack que conectam frontend e backend de forma eficiente. Busco aplicar as melhores práticas de desenvolvimento e evoluir tanto tecnicamente quanto profissionalmente.
+<div align="center">
+
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusolvr&show_icons=true&theme=dracula&count_private=true&hide_rank=false&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusolvr&layout=compact&theme=dracula)
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-Você pode me encontrar e acompanhar meus projetos por aqui no GitHub. Em breve, estarei publicando mais aplicações completas com frontend, backend e testes integrados.
+Sinta-se à vontade para me chamar:
+
+- 📧 **E-mail**: [matheusolvr.dev@gmail.com](mailto:matheusolvr.dev@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario) <!-- Substitua pelo seu real -->
+<!-- - 🌐 Portfólio: [seuportfólio.com](https://seuportfólio.com) -->
 
 ---
 
-Obrigado por visitar meu perfil! 😄
+## ⚡ Curiosidades
+
+- 👨‍🏫 Gosto de ensinar o que aprendo e ajudar outros devs iniciantes
+- 🎮 Nas horas vagas, sou gamer e fã de jogos de estratégia
+- 🧠 Acredito que a prática constante é o melhor caminho para dominar qualquer habilidade
+
+---
+
+Obrigado por visitar meu perfil! 😄  
+Vamos evoluir juntos 🚀
