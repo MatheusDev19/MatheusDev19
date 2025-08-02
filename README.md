@@ -74,18 +74,17 @@ Atualmente, trabalho como **freelancer**, solucionando problemas e desenvolvendo
 Sinta-se à vontade para me chamar:
 
 - 📧 **E-mail**: [matheusolvr.dev@gmail.com](mailto:matheusolvr.dev@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario) <!-- Substitua pelo seu real -->
+- 💼 **LinkedIn**: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/matheus-de-oliveira-rodrigues-750a26265/)
 <!-- - 🌐 Portfólio: [seuportfólio.com](https://seuportfólio.com) -->
 
 ---
 
 ## ⚡ Curiosidades
 
-- 👨‍🏫 Gosto de ensinar o que aprendo e ajudar outros devs iniciantes
-- 🎮 Nas horas vagas, sou gamer e fã de jogos de estratégia
-- 🧠 Acredito que a prática constante é o melhor caminho para dominar qualquer habilidade
+- 👨‍🏫 Gosto de ensinar o que aprendo e ajudar outros devs iniciantes.
+- 🎮 Nas horas vagas, sou gamer e fã de jogos de estratégia.
+- 🧠 Acredito que a prática constante é o melhor caminho para dominar qualquer habilidade.
 
 ---
 
 Obrigado por visitar meu perfil! 😄  
-Vamos evoluir juntos 🚀
