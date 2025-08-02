@@ -74,7 +74,7 @@ Atualmente, trabalho como **freelancer**, solucionando problemas e desenvolvendo
 Sinta-se à vontade para me chamar:
 
 - 📧 **E-mail**: [matheusolvr.dev@gmail.com](mailto:matheusolvr.dev@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/matheus-de-oliveira-rodrigues-750a26265/)
+- 💼 **LinkedIn**: [linkedin.com/in/matheusOlvrRodrigues](https://www.linkedin.com/in/matheus-de-oliveira-rodrigues-750a26265/)
 <!-- - 🌐 Portfólio: [seuportfólio.com](https://seuportfólio.com) -->
 
 ---
