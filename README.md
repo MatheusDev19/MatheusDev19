@@ -38,6 +38,7 @@ Atualmente, trabalho como **freelancer**, solucionando problemas e desenvolvendo
 - Material UI | Mantine UI
 - Axios
 - Zod
+- TanStack | React query
 
 **Backend:**
 - Node.js
