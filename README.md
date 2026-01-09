@@ -2,7 +2,7 @@
 <!-- Você pode criar uma imagem personalizada e usar o link do GitHub ou do Imgur -->
 <!-- ![Banner](https://link-da-sua-imagem/banner.png) -->
 
-<h1 align="center">Matheus de Oliveira · Desenvolvedor Fullstack</h1>
+<h1 align="center">Matheus de Oliveira · Desenvolvedor Front-end</h1>
 
 <p align="center">
   👨‍💻 Apaixonado por tecnologia, focado em desenvolvimento de software e sempre em busca de evoluir!  
