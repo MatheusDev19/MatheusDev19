@@ -19,7 +19,7 @@ Atualmente, trabalho como **freelancer**, solucionando problemas e desenvolvendo
 
 ### 🚀 Experiência profissional:
 
-- **Evelus Labs**: Minha primeira oportunidade profissional. Contribuí no desenvolvimento de um sistema administrativo de e-commerce utilizando **React**, **TypeScript**, **Mantine UI**, **Playwright**, entre outras tecnologias de front-end.
+- **ElevusLabs**: Minha primeira oportunidade profissional. Contribuí no desenvolvimento de um sistema administrativo de e-commerce utilizando **React**, **TypeScript**, **Mantine UI**, **Playwright**, entre outras tecnologias de front-end.
 - **MajovDev**: Atualmente atuo como desenvolvedor **fullstack** em uma fábrica de software. Trabalho tanto no **frontend** quanto no **backend**, aplicando **boas práticas**, **padrões de arquitetura** e **testes automatizados**.
 
 ### 📌 Atualmente:
