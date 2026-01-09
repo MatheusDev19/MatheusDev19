@@ -63,8 +63,6 @@ Atualmente, trabalho como **freelancer**, solucionando problemas e desenvolvendo
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDev19&layout=compact&theme=dracula&count_private=true&langs_count=8&border_radius=15&locale=pt-br&hide_border=true)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusDev19&theme=dracula)
 
 </div>
